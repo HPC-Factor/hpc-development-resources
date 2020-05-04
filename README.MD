@@ -14,6 +14,10 @@ This is a curated list of Handheld PC development resources. This list is create
 embedded Visual Tools
 
 ### C++ projects
+* [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) GAPI implementation for HP Jornada 720 HandheldPC
+* [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) Tool that helps with running PPC apps on HPCs
+* [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) Serial mouse driver
+* [OKey](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/okey) Keyboard remapping tool
 
 ## .net
 
