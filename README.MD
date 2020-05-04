@@ -50,4 +50,4 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 
 * [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
 * Inside Microsoft Windows CE
-* Sams Windows CE Programming in 24 hours
+* [Sams Windows CE Programming in 24 hours](https://books.google.co.jp/books?id=hzzkPgAACAAJ)
