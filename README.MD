@@ -43,6 +43,9 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 
 * [MindTerm](https://www.hpcfactor.com/scl/1072/Appgate/MindTerm_SSH_Client/version_2.4.2) - A Java 1.1 SSH client with sources and libraries that can be used in other applications. SSH1 and SSH2 compatible.
 
+### Ewe
+* [Ewe](https://www.hpcfactor.com/scl/7/Eve_Soft/Ewe_Virtual_Machine/version_1.49) - A programming system which you can use Java to write applications.
+
 ## Books
 
 * [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
