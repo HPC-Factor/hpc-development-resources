@@ -7,6 +7,7 @@ This is a curated list of Handheld PC development resources. This list is create
 ## Various tools
 
 * ExecutabilityCheck
+* [UAEDT](https://www.hpcfactor.com/scl/453/Harald-Ren_Flasch/UAEDT/version_3.3) - Unrecoverable Application Error Debugging Tool (CE2.11+)
 
 ## C++
 
@@ -35,9 +36,12 @@ TODO
 There are numerous Java runtimes for Windows CE. Sun created PortableJava, a somewhat limited runtime which was compatible with Java SE 1.2. Other companies created JREs which won;t be covered here since they were mostly commercial and lack documentation.
 Another notable product was Microsoft Visual J++, which was part of the embedded Visual Toolkit until support was dropped in embedded Visual Tools 6.0, meaning it was not possible to use J++ for creating Windows CE 3.0 apps, at least not for ARM processors.
 
+* [Microsoft Java VM for Windows CE](https://www.hpcfactor.com/scl/1044/Microsoft_Corporation/Microsoft_Virtual_Machine_for_Java_MSVM/version_1.0.0.0)
+
 ### PersonalJava
 
 * [Personal Java runtime](https://www.hpcfactor.com/scl/842/Sun_Microsystems/Personal_JAVA_Virtual_Machine/version_1.0) 
+* [Setting up Eclipse for PersonalJava development](http://www.ohnitsch.net/2014/05/03/personaljava-tutorial/)
 
 ### Java Projects
 
@@ -45,6 +49,9 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 
 ### Ewe
 * [Ewe](https://www.hpcfactor.com/scl/7/Eve_Soft/Ewe_Virtual_Machine/version_1.49) - A programming system which you can use Java to write applications.
+
+## Python
+* [PythonCE](https://www.hpcfactor.com/scl/1073/PythonCE/Python/version_2.3.4)
 
 ## Books
 
