@@ -29,6 +29,7 @@ embedded Visual Tools
 * [CeAtaDrv](https://sourceforge.net/projects/ceatadrv/) - An ATA/IDE driver for Windows CE
 * [Ultra Light FTP Client](https://sourceforge.net/projects/ultralightftpc/files/version%201.0/)
 * [Windows CE Library extentions](https://sourceforge.net/projects/wcelibcex/) - Collection of functions to help with porting software
+* [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 
 ## .net
 
