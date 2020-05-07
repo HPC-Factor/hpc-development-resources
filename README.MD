@@ -27,6 +27,7 @@ embedded Visual Tools
 * [OKey](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/okey) - Keyboard remapping tool
 * [CeAtaDrv](https://sourceforge.net/projects/ceatadrv/) - An ATA/IDE driver for Windows CE
 * [Ultra Light FTP Client](https://sourceforge.net/projects/ultralightftpc/files/version%201.0/)
+* [Windows CE Library extentions](https://sourceforge.net/projects/wcelibcex/) - Collection of functions to help with porting software
 
 ## .net
 
