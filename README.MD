@@ -9,6 +9,7 @@ This is a curated list of Handheld PC development resources. This list is create
 * [ExecutabilityCheck](https://www.hpcfactor.com/downloads/details.asp?r={40A26F4C-E4AC-41C9-81A1-1D81B4C41A0E}) - Executability Check allows you to reassign imports and operating system dependencies required to run Pocket PC applications on the Handheld PC.
 * [ExecutabilityCheck How-To](https://www.hpcfactor.com/support/cesd/s/0128.asp) - This article discusses the purpose and use of ExecutabilityCheck on MIPS & ARM based Handheld PCs.
 * [UAEDT](https://www.hpcfactor.com/scl/453/Harald-Ren_Flasch/UAEDT/version_3.3) - Unrecoverable Application Error Debugging Tool (CE2.11+)
+* [cetoys](https://sourceforge.net/projects/cetoys/) - Collection of tools for accessing/manipulating a Windows CE device using the remote api (rapi)
 
 ## C++
 
@@ -17,6 +18,7 @@ This is a curated list of Handheld PC development resources. This list is create
 ### C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
 embedded Visual Tools
+* [CEGCC](https://sourceforge.net/projects/cegcc/) - GCC for Windows CE development
 
 ### C++ projects
 * [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
@@ -57,7 +59,8 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 * [Ewe](https://www.hpcfactor.com/scl/7/Eve_Soft/Ewe_Virtual_Machine/version_1.49) - A programming system which you can use Java to write applications.
 
 ## Python
-* [PythonCE](https://www.hpcfactor.com/scl/1073/PythonCE/Python/version_2.3.4)
+* [PythonCE](http://pythonce.sourceforge.net/) - Python port for Windows CE ([mirror](https://www.hpcfactor.com/scl/1073/PythonCE/Python/version_2.3.4))
+
 
 ## Books
 
