@@ -6,19 +6,23 @@ This is a curated list of Handheld PC development resources. This list is create
 
 ## Various tools
 
-* ExecutabilityCheck
+* [ExecutabilityCheck](https://www.hpcfactor.com/downloads/details.asp?r={40A26F4C-E4AC-41C9-81A1-1D81B4C41A0E}) - Executability Check allows you to reassign imports and operating system dependencies required to run Pocket PC applications on the Handheld PC.
+* [ExecutabilityCheck How-To](https://www.hpcfactor.com/support/cesd/s/0128.asp) - This article discusses the purpose and use of ExecutabilityCheck on MIPS & ARM based Handheld PCs.
 * [UAEDT](https://www.hpcfactor.com/scl/453/Harald-Ren_Flasch/UAEDT/version_3.3) - Unrecoverable Application Error Debugging Tool (CE2.11+)
 
 ## C++
 
+* [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine)
+
+## C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
 embedded Visual Tools
 
 ### C++ projects
-* [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) GAPI implementation for HP Jornada 720 HandheldPC
-* [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) Tool that helps with running PPC apps on HPCs
-* [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) Serial mouse driver
-* [OKey](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/okey) Keyboard remapping tool
+* [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
+* [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) - Tool that helps with running PPC apps on HPCs
+* [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) - Serial mouse driver
+* [OKey](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/okey) - Keyboard remapping tool
 
 ## .net
 
@@ -56,5 +60,5 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 ## Books
 
 * [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
-* Inside Microsoft Windows CE
+* [Inside Microsoft Windows CE](https://books.google.nl/books/about/Inside_Microsoft_Windows_CE.html?id=Rsu7AAAACAAJ&redir_esc=y) - A book discussing history and technical decisions of Windows CE 1.0-2.11
 * [Sams Windows CE Programming in 24 hours](https://books.google.co.jp/books?id=hzzkPgAACAAJ)
