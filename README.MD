@@ -23,6 +23,7 @@ embedded Visual Tools
 * [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) - Tool that helps with running PPC apps on HPCs
 * [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) - Serial mouse driver
 * [OKey](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/okey) - Keyboard remapping tool
+* [CeAtaDrv](https://sourceforge.net/projects/ceatadrv/) - An ATA/IDE driver for Windows CE
 
 ## .net
 
