@@ -51,6 +51,11 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 * [Personal Java runtime](https://www.hpcfactor.com/scl/842/Sun_Microsystems/Personal_JAVA_Virtual_Machine/version_1.0) 
 * [Setting up Eclipse for PersonalJava development](http://www.ohnitsch.net/2014/05/03/personaljava-tutorial/)
 
+### SuperWaba
+[SuperWABA](https://en.wikipedia.org/wiki/SuperWaba) is a java-like VM developed for low-power devices
+* [SuperWaba sources & binaries](https://sourceforge.net/projects/superwaba/files/VM/Release%204.50a/)
+* [WabaSoft website](http://web.archive.org/web/20070205081050/http://www.wabasoft.com/howto.shtml)
+
 ### Java Projects
 
 * [MindTerm](https://www.hpcfactor.com/scl/1072/Appgate/MindTerm_SSH_Client/version_2.4.2) - A Java 1.1 SSH client with sources and libraries that can be used in other applications. SSH1 and SSH2 compatible.
