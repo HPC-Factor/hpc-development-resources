@@ -2,7 +2,7 @@
 
 Disclaimer: this document is very much under construction!
 
-This is a curated list of Handheld PC development resources. This list is created by HPC:Factor, a community dedicated to keeping the Handheld PC legacy alive.
+This is a curated list of Handheld PC development resources. This list is created by [HPC:Factor](https://www.hpcfactor.com), a community dedicated to keeping the Handheld PC legacy alive.
 
 ## Various tools
 
