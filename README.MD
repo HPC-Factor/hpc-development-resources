@@ -35,6 +35,9 @@ embedded Visual Tools
 
 Description of how .net development works.
 
+* [.net Compact framework for Windows CE 2.0/2.01](https://www.hpcfactor.com/scl/1040/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.00/2.01) - Port of the .net CF to Windows CE 2.0/2.01 by dstefanov
+* [.net Compact framework for Windows CE 2.11](https://www.hpcfactor.com/scl/1041/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.11) - Port of the .net CF to Windows CE 2.11 by dstefanov
+
 ### .net projects
 * [TicTacToe](https://github.com/HPC-Factor/TicTacToe)
 
