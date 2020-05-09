@@ -31,12 +31,23 @@ embedded Visual Tools
 * [Windows CE Library extentions](https://sourceforge.net/projects/wcelibcex/) - Collection of functions to help with porting software
 * [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 
+### C++ Books
+
+* 📕 [Sams Windows CE Programming in 24 hours](https://books.google.co.jp/books?id=hzzkPgAACAAJ)
+* 📕 [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
+
 ## .net
 
 Description of how .net development works.
 
 * [.net Compact framework for Windows CE 2.0/2.01](https://www.hpcfactor.com/scl/1040/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.00/2.01) - Port of the .net CF to Windows CE 2.0/2.01 by dstefanov
 * [.net Compact framework for Windows CE 2.11](https://www.hpcfactor.com/scl/1041/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.11) - Port of the .net CF to Windows CE 2.11 by dstefanov
+
+### .net Books
+* 📕 [.NET Compact Framework Pocket Guide](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=9780596007577&rh=i:aps,k:9780596007577&tag=hpcfactor00-20) (ISBN 9780596007577) 
+* 📕 [Microsoft .NET Compact Framework Kick Start](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=9780672325700&rh=i:aps,k:9780672325700&tag=hpcfactor00-20) (ISBN 9780672325700) 
+* 📕 [Microsoft .NET Compact Framework (Core Reference)](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=9780735617254&rh=i:aps,k:9780735617254&tag=hpcfactor00-20) (ISBN 9780735617254) 
+* 📕 [.NET Compact Framework](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=9781861007001&rh=i:aps,k:9781861007001&tag=hpcfactor00-20) (ISBN 9781861007001) 
 
 ### .net projects
 * [TicTacToe](https://github.com/HPC-Factor/TicTacToe)
@@ -75,6 +86,4 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 
 ## Books
 
-* [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
-* [Inside Microsoft Windows CE](https://books.google.nl/books/about/Inside_Microsoft_Windows_CE.html?id=Rsu7AAAACAAJ&redir_esc=y) - A book discussing history and technical decisions of Windows CE 1.0-2.11
-* [Sams Windows CE Programming in 24 hours](https://books.google.co.jp/books?id=hzzkPgAACAAJ)
+* 📕 [Inside Microsoft Windows CE](https://books.google.nl/books/about/Inside_Microsoft_Windows_CE.html?id=Rsu7AAAACAAJ&redir_esc=y) - A book discussing history and technical decisions of Windows CE 1.0-2.11
