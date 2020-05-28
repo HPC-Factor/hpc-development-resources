@@ -20,6 +20,7 @@ This is a curated list of Handheld PC development resources. This list is create
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
 embedded Visual Tools
 * [CEGCC](https://sourceforge.net/projects/cegcc/) - GCC for Windows CE development
+* [GNUWINCE](https://www.hpcfactor.com/downloads/details.asp?r={9D534150-2CDD-42A4-8AAE-1B1FBCEB64A5}) - Collection of tools supporting C, C++, and Java programming for Windows CE
 
 ### C++ projects
 * [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
