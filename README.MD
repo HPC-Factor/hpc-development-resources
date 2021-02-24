@@ -15,6 +15,7 @@ This is a curated list of Handheld PC development resources. This list is create
 ## C++
 
 * [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](https://www.hpcfactor.com/support/cesd/d/0009.asp)
+* [http://web.archive.org/web/20010616145539/http://www.cegadgets.com/wincedevfaq.htm](Windows CE Development FAQ)
 
 ### C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
