@@ -15,7 +15,7 @@ This is a curated list of Handheld PC development resources. This list is create
 ## C++
 
 * [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](https://www.hpcfactor.com/support/cesd/d/0009.asp)
-* [http://web.archive.org/web/20010616145539/http://www.cegadgets.com/wincedevfaq.htm](Windows CE Development FAQ)
+* [Windows CE Development FAQ](http://web.archive.org/web/20010616145539/http://www.cegadgets.com/wincedevfaq.htm)
 
 ### C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
@@ -75,12 +75,12 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 * [SuperWaba sources & binaries](https://sourceforge.net/projects/superwaba/files/VM/Release%204.50a/)
 * [WabaSoft website](http://web.archive.org/web/20070205081050/http://www.wabasoft.com/howto.shtml)
 
+### Ewe
+* [Ewe](https://www.hpcfactor.com/scl/7/Eve_Soft/Ewe_Virtual_Machine/version_1.49) - A Java-like VM.
+
 ### Java Projects
 
 * [MindTerm](https://www.hpcfactor.com/scl/1072/Appgate/MindTerm_SSH_Client/version_2.4.2) - A Java 1.1 SSH client with sources and libraries that can be used in other applications. SSH1 and SSH2 compatible.
-
-### Ewe
-* [Ewe](https://www.hpcfactor.com/scl/7/Eve_Soft/Ewe_Virtual_Machine/version_1.49) - A programming system which you can use Java to write applications.
 
 ## Python
 * [PythonCE](http://pythonce.sourceforge.net/) - Python port for Windows CE ([mirror](https://www.hpcfactor.com/scl/1073/PythonCE/Python/version_2.3.4))
