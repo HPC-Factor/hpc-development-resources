@@ -20,7 +20,9 @@ This is a curated list of Handheld PC development resources. This list is create
 ### C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
 embedded Visual Tools
-* [CEGCC](https://sourceforge.net/projects/cegcc/) - GCC for Windows CE development
+* [CEGCC](https://sourceforge.net/projects/cegcc/) - GCC for Windows CE development (deprecated, use updated version below)
+* [CEGCC 9.3](https://github.com/MaxKellermann/cegcc-build) - Updated CEGCC build with build script
+* PGCC - GCC port that runs on ARM CE3.0
 * [GNUWINCE](https://www.hpcfactor.com/downloads/details.asp?r={9D534150-2CDD-42A4-8AAE-1B1FBCEB64A5}) - Collection of tools supporting C, C++, and Java programming for Windows CE
 
 ### C++ projects
