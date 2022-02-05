@@ -12,12 +12,12 @@ This is a curated list of Handheld PC development resources. This list is create
 * [cetoys](https://sourceforge.net/projects/cetoys/) - Collection of tools for accessing/manipulating a Windows CE device using the remote api (rapi)
 * [OpenWinCE Project](https://sourceforge.net/projects/openwince/files/) - Collection of (outdated) devtools, header files, etc
 
-## C++
+## C/C++
 
 * [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](https://www.hpcfactor.com/support/cesd/d/0009.asp)
 * [Windows CE Development FAQ](http://web.archive.org/web/20010616145539/http://www.cegadgets.com/wincedevfaq.htm)
 
-### C++ compilers and IDEs
+### C/C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
 embedded Visual Tools
 * [CEGCC](https://sourceforge.net/projects/cegcc/) - GCC for Windows CE development (deprecated, use updated version below)
@@ -25,7 +25,7 @@ embedded Visual Tools
 * PGCC - GCC port that runs on ARM CE3.0
 * [GNUWINCE](https://www.hpcfactor.com/downloads/details.asp?r={9D534150-2CDD-42A4-8AAE-1B1FBCEB64A5}) - Collection of tools supporting C, C++, and Java programming for Windows CE
 
-### C++ projects
+### C/C++ projects
 * [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
 * [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) - Tool that helps with running PPC apps on HPCs
 * [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) - Serial mouse driver
@@ -35,6 +35,7 @@ embedded Visual Tools
 * [Windows CE Library extentions](https://sourceforge.net/projects/wcelibcex/) - Collection of functions to help with porting software
 * [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 * [Driver for various USB-RS232 adapters](https://github.com/HPC-Factor/232usb-windowsce)
+* [SynCE](https://github.com/HPC-Factor/synce)
 
 ### C++ Books
 
