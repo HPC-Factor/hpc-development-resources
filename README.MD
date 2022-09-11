@@ -25,7 +25,8 @@ embedded Visual Tools
 * PGCC - GCC port that runs on ARM CE3.0
 * [GNUWINCE](https://www.hpcfactor.com/downloads/details.asp?r={9D534150-2CDD-42A4-8AAE-1B1FBCEB64A5}) - Collection of tools supporting C, C++, and Java programming for Windows CE
 
-### C/C++ projects
+### C/C++ projects and sample code
+* [Sample code from the Windows CE Developers Kit book set](https://github.com/HPC-Factor/windows-ce-developers-kit-code-samples) - Code samples for Windows CE 2.11
 * [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
 * [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) - Tool that helps with running PPC apps on HPCs
 * [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) - Serial mouse driver
