@@ -26,7 +26,7 @@ embedded Visual Tools
 * [GNUWINCE](https://www.hpcfactor.com/downloads/details.asp?r={9D534150-2CDD-42A4-8AAE-1B1FBCEB64A5}) - Collection of tools supporting C, C++, and Java programming for Windows CE
 
 ### C/C++ projects and sample code
-* [Sample code from the Windows CE Developers Kit book set](https://github.com/HPC-Factor/windows-ce-developers-kit-code-samples) - Code samples for Windows CE 2.11
+* [Sample code from the Windows CE Developer's Kit book set](https://github.com/HPC-Factor/windows-ce-developers-kit-code-samples) - Code samples for Windows CE 2.11
 * [J720Video Ez Hack](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/J720Video_ez_hack) - GAPI implementation for HP Jornada 720 HandheldPC
 * [WinWatch](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/WinWatch) - Tool that helps with running PPC apps on HPCs
 * [MouSer](https://github.com/battlecoder/ancient_hpc_stuff/tree/master/mouser) - Serial mouse driver
@@ -40,8 +40,9 @@ embedded Visual Tools
 
 ### C++ Books
 
-* 📕 [Sams Windows CE Programming in 24 hours](https://books.google.co.jp/books?id=hzzkPgAACAAJ)
+* 📕 [Sams Windows CE Programming in 24 hours](https://books.google.com/books?id=hzzkPgAACAAJ)
 * 📕 [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
+* 📕 [Windows CE Developer's Kit](https://www.google.com/books/edition/Microsoft_Windows_CE_Developer_s_Kit/m8taAQAACAAJ?hl=en)
 
 ## .net
 
