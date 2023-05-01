@@ -37,6 +37,7 @@ embedded Visual Tools
 * [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 * [Driver for various USB-RS232 adapters](https://github.com/HPC-Factor/232usb-windowsce)
 * [SynCE](https://github.com/HPC-Factor/synce)
+* [Windows CE 3.0 MSDN Technical Articles](https://web.archive.org/web/20040614224612if_/http://msdn.microsoft.com/embedded/prevver/ce3/article/default.aspx)
 
 ### C++ Books
 
