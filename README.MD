@@ -16,6 +16,7 @@ This is a curated list of Handheld PC development resources. This list is create
 
 * [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](https://www.hpcfactor.com/support/cesd/d/0009.asp)
 * [Windows CE Development FAQ](http://web.archive.org/web/20010616145539/http://www.cegadgets.com/wincedevfaq.htm)
+* [Windows CE 3.0 MSDN Technical Articles](https://web.archive.org/web/20040614224612if_/http://msdn.microsoft.com/embedded/prevver/ce3/article/default.aspx)
 
 ### C/C++ compilers and IDEs
 * [Microsoft Visual C++ For Windows CE Version 1.0](https://archive.org/details/msvcceu.100) (Windows CE 1.0)
@@ -37,13 +38,15 @@ embedded Visual Tools
 * [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 * [Driver for various USB-RS232 adapters](https://github.com/HPC-Factor/232usb-windowsce)
 * [SynCE](https://github.com/HPC-Factor/synce)
-* [Windows CE 3.0 MSDN Technical Articles](https://web.archive.org/web/20040614224612if_/http://msdn.microsoft.com/embedded/prevver/ce3/article/default.aspx)
 
 ### C++ Books
 
 * 📕 [Sams Windows CE Programming in 24 hours](https://books.google.com/books?id=hzzkPgAACAAJ)
 * 📕 [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
 * 📕 [Windows CE Developer's Kit](https://www.google.com/books/edition/Microsoft_Windows_CE_Developer_s_Kit/m8taAQAACAAJ?hl=en)
+* 📕 [Microsoft Windows CE Programmer's Guide ](https://www.amazon.com/gp/product/1572316438/?creativeASIN=1572316438&tag=hpcfactor00-20)
+* 📕 [The Windows CE Technology Tutorial: Windows Powered Solutions for the Developer](https://www.amazon.com/gp/product/0201616424/?creativeASIN=0201616424&tag=hpcfactor00-20)
+* 📕 [Programming Microsoft Windows CE ](https://www.amazon.com/gp/product/1572318562/?creativeASIN=1572318562&tag=hpcfactor00-20)
 
 ## .net
 
