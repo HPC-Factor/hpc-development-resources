@@ -44,9 +44,13 @@ embedded Visual Tools
 * 📕 [Sams Windows CE Programming in 24 hours](https://books.google.com/books?id=hzzkPgAACAAJ)
 * 📕 [Windows CE 3.0 Application Programming](https://books.google.com/books?id=AF5Lr5HA5UEC)
 * 📕 [Windows CE Developer's Kit](https://www.google.com/books/edition/Microsoft_Windows_CE_Developer_s_Kit/m8taAQAACAAJ?hl=en)
-* 📕 [Microsoft Windows CE Programmer's Guide ](https://www.amazon.com/gp/product/1572316438/?creativeASIN=1572316438&tag=hpcfactor00-20)
+  * 📕 [Windows CE User Interface Services Guide](https://archive.org/details/bitsavers_microsoftwndowsCEUserInterfaceServicesGuide1999_11958099)
+  * 📕 [Windows CE Communications Guide](https://archive.org/details/bitsavers_microsoftwndowsCECommunicationsGuide1999_10487503)
+  * 📕 [Windows CE Device Driver Kit](https://archive.org/details/bitsavers_microsoftwndowsCEDeviceDriverKit1999_7069688)
+  * 📕 [Windows CE Programmers Guide](https://archive.org/details/bitsavers_microsoftwndowsCEProgrammersGuide1999_12054297)
+* 📕 [Microsoft Windows CE Programmer's Guide](https://www.amazon.com/gp/product/1572316438/?creativeASIN=1572316438&tag=hpcfactor00-20)
 * 📕 [The Windows CE Technology Tutorial: Windows Powered Solutions for the Developer](https://www.amazon.com/gp/product/0201616424/?creativeASIN=0201616424&tag=hpcfactor00-20)
-* 📕 [Programming Microsoft Windows CE ](https://www.amazon.com/gp/product/1572318562/?creativeASIN=1572318562&tag=hpcfactor00-20)
+* 📕 [Programming Microsoft Windows CE](https://www.amazon.com/gp/product/1572318562/?creativeASIN=1572318562&tag=hpcfactor00-20)
 
 ## .net
 
