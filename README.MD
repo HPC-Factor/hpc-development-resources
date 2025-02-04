@@ -12,10 +12,6 @@ This is a curated list of Handheld PC development resources. This list is create
 * [cetoys](https://sourceforge.net/projects/cetoys/) - Collection of tools for accessing/manipulating a Windows CE device using the remote api (rapi)
 * [OpenWinCE Project](https://sourceforge.net/projects/openwince/files/) - Collection of (outdated) devtools, header files, etc
 
-### General Books
-
-* 📕 [Inside Microsoft Windows CE](https://archive.org/details/bitsavers_microsoftweMicrosoftWindowsCE1998_36633028)
-
 ## C/C++
 
 * [Setting up a Windows CE 2.00, H/PC Pro and HPC2000 Development Environment in a Virtual Machine](https://www.hpcfactor.com/support/cesd/d/0009.asp)
@@ -61,8 +57,6 @@ embedded Visual Tools
 * 📕 [Making Win32 Applications Mobile: Porting to Windows CE](https://archive.org/details/makingwin32appli00nico)
 
 ## .net
-
-Description of how .net development works.
 
 * [.net Compact framework for Windows CE 2.0/2.01](https://www.hpcfactor.com/scl/1040/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.00/2.01) - Port of the .net CF to Windows CE 2.0/2.01 by dstefanov
 * [.net Compact framework for Windows CE 2.11](https://www.hpcfactor.com/scl/1041/dstefanov/Microsoft_.NET_Compact_Framework_1.0_SP3_for_Windows_CE_2.11) - Port of the .net CF to Windows CE 2.11 by dstefanov
@@ -110,4 +104,4 @@ Another notable product was Microsoft Visual J++, which was part of the embedded
 
 ## Books
 
-* 📕 [Inside Microsoft Windows CE](https://books.google.nl/books/about/Inside_Microsoft_Windows_CE.html?id=Rsu7AAAACAAJ&redir_esc=y) - A book discussing history and technical decisions of Windows CE 1.0-2.11
+* 📕 [Inside Microsoft Windows CE](https://archive.org/details/bitsavers_microsoftweMicrosoftWindowsCE1998_36633028) - A book discussing history and technical decisions of Windows CE 1.0-2.11
