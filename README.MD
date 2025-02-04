@@ -83,7 +83,7 @@ TODO
 
 ## Java
 
-There are numerous Java runtimes for Windows CE. Sun created PortableJava, a somewhat limited runtime which was compatible with Java SE 1.2. Other companies created JREs which won;t be covered here since they were mostly commercial and lack documentation.
+There are numerous Java runtimes for Windows CE. Sun created PortableJava, a somewhat limited runtime which was compatible with Java SE 1.2. Other companies also created JREs, but since they're commercial products that need a paid license, these won't be covered here.
 Another notable product was Microsoft Visual J++, which was part of the embedded Visual Toolkit until support was dropped in embedded Visual Tools 6.0, meaning it was not possible to use J++ for creating Windows CE 3.0 apps, at least not for ARM processors.
 
 * [Microsoft Java VM for Windows CE](https://www.hpcfactor.com/scl/1044/Microsoft_Corporation/Microsoft_Virtual_Machine_for_Java_MSVM/version_1.0.0.0)
