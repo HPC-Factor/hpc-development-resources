@@ -73,7 +73,8 @@ embedded Visual Tools
 
 ## Visual Basic
 
-TODO
+### Visual Basic Books
+* 📕 [Professional Visual Basic Windows CE programming](https://archive.org/details/professionalvisu0000roof) (ISBN 9780596007577) 
 
 ## Java
 
