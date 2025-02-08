@@ -38,7 +38,7 @@ embedded Visual Tools
 * [Windows CE VNC Server](https://sourceforge.net/projects/wincevncsvr/files/wincevncsvr/cevncsvr-0.1/)
 * [Driver for various USB-RS232 adapters](https://github.com/HPC-Factor/232usb-windowsce)
 * [SynCE](https://github.com/HPC-Factor/synce)
-* [CEuroPad (CE1.0)](https://bitbucket.org/PeCeT_full/ceuropad/src/main/)
+* [CEuroPad (CE1.0)](https://github.com/PeCeTfull/CEuroPad)
 
 ### C++ Books
 
