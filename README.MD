@@ -11,6 +11,7 @@ This is a curated list of Handheld PC development resources. This list is create
 * [UAEDT](https://www.hpcfactor.com/scl/453/Harald-Ren_Flasch/UAEDT/version_3.3) - Unrecoverable Application Error Debugging Tool (CE2.11+)
 * [cetoys](https://sourceforge.net/projects/cetoys/) - Collection of tools for accessing/manipulating a Windows CE device using the remote api (rapi)
 * [OpenWinCE Project](https://sourceforge.net/projects/openwince/files/) - Collection of (outdated) devtools, header files, etc
+* [Windows CE Image toolkit](https://weeaboo.software/shiz/celavie) - Tool for unpacking various types of Windows CE ROM images
 
 ## C/C++
 
