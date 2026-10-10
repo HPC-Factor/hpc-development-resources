@@ -69,8 +69,12 @@ embedded Visual Tools
 * 📕 [.NET Compact Framework](https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias=aps&field-keywords=9781861007001&rh=i:aps,k:9781861007001&tag=hpcfactor00-20) (ISBN 9781861007001) 
 * 📕 [Programming Microsoft Windows CE .NET](https://archive.org/details/bitsavers_microsoftwingProgrammingMicrosoftWindowsCE.NET3ed2_112784267) 
 
+### .net Videos
+* 📼 [Windows CE .NET Compact Framework Application Development](https://www.youtube.com/watch?v=vuj_wc072jY)
+
 ### .net projects
 * [TicTacToe](https://github.com/HPC-Factor/TicTacToe)
+* [Pocketable Popcorn.NET](https://github.com/PeCeTfull/PocketablePopcorn.NET)
 
 ## Visual Basic
 
